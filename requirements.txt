@@ -1,0 +1,11 @@
+pandas  # Data manipulation and tabular processing
+matplotlib  # Core plotting and charting
+seaborn  # Statistical visualization built on matplotlib
+jupyter  # Notebook server and UI
+ipykernel  # Python kernel support for notebooks
+SQLAlchemy  # SQL toolkit and ORM for database access
+PyMySQL  # MySQL driver for Python
+psycopg2-binary  # PostgreSQL driver (precompiled binary)
+python-dotenv  # Load environment variables from .env files
+pymongo  # MongoDB client for Python
+scikit-learn  # Machine learning algorithms and preprocessing tools
